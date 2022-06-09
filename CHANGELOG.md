@@ -22,3 +22,10 @@
         - Problemas Comunes con los Callbacks
         - CallBacks Hell
         - Promesas
+        - Promesas en Cadena [09-06-2022]
+
+### [Bases de Node]
+
+    - requerir paquetes - require
+    - importar archivos de nuestro proyecto
+    - recirbir información desde linea de comandos
