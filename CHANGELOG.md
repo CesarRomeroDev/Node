@@ -29,3 +29,9 @@
     - requerir paquetes - require
     - importar archivos de nuestro proyecto
     - recirbir información desde linea de comandos
+    - package.json - init - install - uninstall
+    - Yargs
+    - Configuraciones de Yargs
+    - Configuración de Yargs independiente
+    - Colores de la consola
+    - Tarea - Tabla hasta X
