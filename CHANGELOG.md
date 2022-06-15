@@ -49,3 +49,16 @@
     - Heroku - Subiendo nuestra aplicación a producción
     - Desplegando aplicaciones de Angular y React
     - Subir los cambios a Heroku[14-06-2022]
+
+### [Webserver - HTTP - EXPRESS - HBS]
+
+    - Express basado en clases [15-06-2022]
+    - Peticiones HTTP - GET - PUT - POST - DELETE
+    - Códigos de respuestas HTTP
+    - Usando códigos de respuesta HTTP en Express
+    - CORS - Middleware
+    - Separar las rutas y el controlador de la clase
+    - Obtener datos de un POST
+    - Parámetros de segmento y query
+    - Respaldo del RESTServer a GitHub
+    - Subir el RESTServer a Heroku [15-06-2022]
